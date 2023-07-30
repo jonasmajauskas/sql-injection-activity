@@ -1,0 +1,1 @@
+SELECT title FROM user WHERE username = 'asdf' OR 1=1 --AND password = 'asdf'
